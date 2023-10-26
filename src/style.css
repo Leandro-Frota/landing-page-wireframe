@@ -26,18 +26,19 @@ body{
     border: 1px solid black;
 }
 .content-text{
-    font-size: 200px;
+    font-size: 150px;
     border: 1px solid black;
 }
 
 .content-image{
-    font-size: 200px;
+    font-size: 150px;
     border: 1px solid black;    
 }
 
 .footer{
-    margin-top: 6rem;
+    margin-top: 8rem;
     border: 1px solid black;
+    font-size: 50px;
 
 }
 
