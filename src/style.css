@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #EBECF0;
+ 
+
+}
+
+.container-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem 6rem 3rem 6rem;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+}
+.content-text{
+    font-size: 200px;
+    border: 1px solid black;
+}
+
+.content-image{
+    font-size: 200px;
+    border: 1px solid black;    
+}
+
+.footer{
+    margin-top: 6rem;
+    border: 1px solid black;
+
+}
+
